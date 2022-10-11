@@ -7,9 +7,7 @@ function App() {
         <div className='bg-[url("assets/bg.jpg")] min-h-screen bg-cover bg-center grid place-content-center'>
             <Box>
                 <Navbar />
-                <Home>
-                    <h1>Hello World!</h1>
-                </Home>
+                <Home />
             </Box>
         </div>
     );
